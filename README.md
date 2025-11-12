@@ -21,7 +21,7 @@ An all-in-one mobile application that helps users manage their medications with 
 ### [Web API Assignment 1](https://github.com/random-iceham/wepabi-assignment1)
 A basic CRUD-based API built to demonstrate foundational concepts such as routing, middleware, and controller logic using Node.js and MongoDB.
 
-### [Web API Final Project](https://github.com/random-iceham/wadprojecty3)
+### [Web API Book Catalogue (Final Project)](https://github.com/random-iceham/wadprojecty3)
 A full-stack web API system with authentication and dynamic data retrieval. Includes features like user login, data validation, and modular API design.
 
 ---
