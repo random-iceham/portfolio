@@ -3,6 +3,11 @@
 Welcome to my project portfolio! Below is a collection of projects I've built across various domains such as mobile application development, web APIs, and database systems.
 
 ---
+### [COLOR PALETTE](https://github.com/random-iceham/color-palette)
+Live website: https://random-iceham.github.io/color-palette/
+A React app that generates color palettes with different styles. Click on a color to copy its hex code!
+
+---
 
 ## Mobile Application Development
 
