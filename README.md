@@ -9,6 +9,11 @@ Live website: https://random-iceham.github.io/color-palette/
 A React app that generates color palettes with different styles. Click on a color to copy its hex code!
 
 ---
+[Weather Website](https://github.com/random-iceham/weather-webapp-react)
+A responsive weather application built using React (Vite) that allows users to search for current weather conditions and view a 5-day forecast. The app also supports geolocation to fetch weather data based on the user’s current location.
+
+
+---
 
 ## Mobile Application Development
 
